@@ -1,0 +1,17 @@
+__pycache__/
+.cache/
+.ipynb_checkpoints/
+ASSN/
+lightning_logs/
+my-test-project/
+/final
+/old
+/raw_data
+/submission
+/wandb
+
+*.ckpt
+*.ipynb
+*.pt
+*.pkl
+*.csv
